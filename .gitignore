@@ -1,4 +1,6 @@
 Notes/
+notes/
 *.csv
 **/.DS_Store
 .vscode/
+venv/
