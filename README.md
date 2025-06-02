@@ -14,7 +14,9 @@ Los resultados muestran que la arquitectura propuesta es efectiva, aunque se ide
 
 ## Introducción
 
-En las partituras musicales existen ciertos glifos conocidos como las [figuras musicales](https://es.wikipedia.org/wiki/Figura_musical). Estos glifos representan el ritmo de las notas en una canción, atribuyendo a cada glifo un valor específico.
+La preservación cultural y la digitalización de la música en un formato legible por máquinas son aspectos fundamentales en la actualidad. Las partituras musicales, al ser una representación escrita del conocimiento musical, constituyen un patrimonio cultural invaluable. Sin embargo, gran parte de esta información permanece en formatos físicos o imágenes escaneadas, lo que dificulta su acceso, análisis y conservación a largo plazo. Desarrollar sistemas automáticos capaces de identificar y clasificar figuras musicales en imágenes permite transformar estos documentos en datos estructurados, facilitando su almacenamiento, búsqueda y análisis computacional. De esta manera, no solo se contribuye a la preservación y difusión del patrimonio musical, sino que también se habilitan nuevas posibilidades para la investigación musical y la creación de aplicaciones educativas y tecnológicas en el ámbito musical.
+
+Dentro de las partituras musicales existen ciertos glifos conocidos como las [figuras musicales](https://es.wikipedia.org/wiki/Figura_musical). Estos glifos representan el ritmo de las notas en una canción, atribuyendo a cada glifo un valor específico.
 
 Este proyecto busca utilizar Machine Learning para generar un clasificador de imágenes que categorize imágenes en las siguientes categorías:
 
